@@ -1,5 +1,8 @@
 Ez egy teszt szoveg
-Bazzeg
-uj sor
 
+
+uj sor
+-------------
+
+2019.10.28.
 
