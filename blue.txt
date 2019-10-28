@@ -1,0 +1,12 @@
+//Új szöveg
+//próba cuccok
+
+public class Cucc1 {
+	
+	private final int cucc;
+
+	void Cucc1(){
+	this.cucc = 1;
+	}
+
+}
